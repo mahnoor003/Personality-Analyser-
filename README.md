@@ -1,12 +1,10 @@
 # Personality Analyzer from LinkedIn and GitHub
 
----
 
 ## 📑 Abstract
 
 This web-based application utilizes Artificial Intelligence and Natural Language Processing (NLP) to analyze personality traits from professional profiles such as LinkedIn and GitHub. The system predicts the Big Five personality traits—**Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism**—using fine-tuned BERT models. Developed in **Streamlit**, it offers interactive visualizations, batch analysis, and PDF report generation—ideal for HR, psychologists, and data enthusiasts.
 
----
 
 ## 📚 Table of Contents
 
@@ -23,19 +21,16 @@ This web-based application utilizes Artificial Intelligence and Natural Language
 9. [Conclusion](#conclusion)  
 10. [References](#references)  
 
----
 
 ## 1. Introduction
 
 Professional behavior analysis is valuable for recruitment, self-evaluation, and personality insights. This project leverages AI to extract text from LinkedIn/GitHub and predict personality traits using BERT-based models.
 
----
 
 ## 2. Problem Statement
 
 Although vast professional data is available online, no easily accessible tool translates it into psychological insights. There's a need to interpret this data into personality assessment.
 
----
 
 ## 3. Proposed Solution
 
@@ -77,7 +72,6 @@ A web app processes LinkedIn/GitHub content, extracts embeddings, and uses AI mo
 - Clear visual dominance indicators  
 - Batch PDFs successfully exported  
 
----
 
 ## 4. Tools and Technologies
 
@@ -88,13 +82,11 @@ A web app processes LinkedIn/GitHub content, extracts embeddings, and uses AI mo
 - **PDF**: fpdf  
 - **UI**: Streamlit  
 
----
 
 ## 5. Project Scope
 
 An NLP-based web app predicting personality traits using public LinkedIn/GitHub content. It supports manual and batch uploads, interactive plots, and PDF reports for HR, researchers, and individuals.
 
----
 
 ## 7. Interfaces (Screenshots Suggested)
 
