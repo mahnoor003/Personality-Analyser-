@@ -1,0 +1,326 @@
+Username,Name,Followers,Following,Public Repos,Repo Name,Description,Languages,Latest Commit,README
+yasir-shahzad,Yasir Shahzad,2439,0,134,SoftI2C,Software-based I2C communication library for Arduino,C++,"Merge pull request #6 from Riley349/patch-1
+
+Update README.md","# SoftI2C Arduino Library
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](http..."
+yasir-shahzad,Yasir Shahzad,2439,0,134,SmartBatteryHack,Arduino based hacking tool for smart batteries using SMBus.,"C#, C++, Python","Fix SMBus block write function
+
+Block length was missing from the beginning of the data array. Without length the battery controller does not know how many bytes to expect.","# SmartBatteryHack
+This is a hacking tool for smart batteries using SMBus. Originally written for a ..."
+yasir-shahzad,Yasir Shahzad,2439,0,134,SIM800C-Module,SIM800C GSM/GPRS Module 📶📱 designed using Altium 💻,,Description Updated 📝✅✨,"# ⚡ SIM800C-Module ⚡
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https..."
+axiftaj,Asif Taj,2200,0,62,Flutter-News-App,,"Dart, C++, CMake, HTML, Ruby, Swift, C, Kotlin, Objective-C",refactoring code,"## About The Project
+Flutter MVVM project for News Headlines. REST Api for News is used in this proj..."
+axiftaj,Asif Taj,2200,0,62,Flutter-Gemini-Math-Ai-Solver,,"C++, CMake, Dart, Ruby, Swift, HTML, C, Kotlin, Objective-C",api key added to .env :d,"# google_gen_ai
+
+A new Flutter project.
+
+
+## Getting Started
+
+This project is a starting point for a..."
+axiftaj,Asif Taj,2200,0,62,Flutter-Getx-Roadmap,,,Update README.md,"# Flutter GetX Roadmap
+
+
+### Flutter Getx Road Map and what we will learn in this playlist
+- [Getx R..."
+vikram-singh9,Vikram S,1881,12199,86,Pet_Adoption_System,"A Pet Adoption System built using Python OOP, and Streamlit for the user interface. This project is ideal for those who are learning Python, Streamlit, and want to practice applying OOP concepts in a real-world projects.",Python,Update pets.json,"# 🐾 Pet Adoption System
+
+A Pet Adoption System built using **Python**, **OOP (Object-Oriented Progra..."
+vikram-singh9,Vikram S,1881,12199,86,portfolio,"A personal portfolio website built in typescript, next js ","TypeScript, CSS, JavaScript",Update page.tsx,"# If you like this portfolio, please give it a ⭐!!!
+ 
+..."
+vikram-singh9,Vikram S,1881,12199,86,FullStack_Marketplace,Hackathon to build a fullstack ecommerce website used sanity CMS ,"TypeScript, JavaScript, CSS",updated,This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs...
+wajahatkarim3,Wajahat Karim,1799,117,153,Flippable,"A Jetpack Compose library for animating a flip transition between the front and back of something, such as a card. ",Kotlin,"Merge pull request #13 from wajahatkarim3/fix/DepsUpdate_Issue12
+
+Fixed the issue #12 and updates the Compose version to 1.5.4","<div align=""center""><img src=""https://user-images.githubusercontent.com/8867121/154110583-1e5364de-3..."
+wajahatkarim3,Wajahat Karim,1799,117,153,EasyFlipViewPager,📖 The library for creating book and card flip animations in ViewPager in Android,"Java, Kotlin",Published 2.0.1 on maven Central,"<div align=""center""><p><a href=""https://android.jlelse.eu/easyflipviewpager-the-flip-animations-for-..."
+wajahatkarim3,Wajahat Karim,1799,117,153,MediumClap-Android,👏 The Medium's Clapping Effect developed in Android,"Kotlin, Java",Published 2.0.0 to MavenCentral,"# 👏 MediumClap-Android
+[![Build status](https://build.appcenter.ms/v0.1/apps/c7b7ac7b-34b7-4a0d-89b3..."
+Ameen-Alam,Ameen Alam,1763,22,100,CNC-Docker,Deploy Application using Docker with Nginx,"Dockerfile, Shell, JavaScript, Python, HTML, PHP",Update README.md,"# Deploy Application using Docker with Nginx
+
+[Docker Deep Dive Book PDF](/Docker%20Deep%20Dive.pdf)..."
+Ameen-Alam,Ameen Alam,1763,22,100,raisersbuilder,raisersbuilder,"JavaScript, HTML, CSS",raisers builder,No README
+Ameen-Alam,Ameen Alam,1763,22,100,MySQL,,Shell,scripting,"# MySQL
+
+MySQL is a relational database management system (RDBMS) based on the SQL (Structured Query..."
+ghousahmed,Ghous Ahmed,1433,4,75,modern-web-and-app-development,,,Update README.md,"<h1 align='center'>Modern Web & App Development</h1>
+
+<img src='./imgs/banner.png'/>
+
+<p align=""cent..."
+ghousahmed,Ghous Ahmed,1433,4,75,Books,,,Python Book (English),No README
+ghousahmed,Ghous Ahmed,1433,4,75,ghousahmed,,,Update README.md,"<h1 align=""center"">Hi 👋, I'm Ghous Ahmed</h1>
+<h3 align=""center"">I’m a full-stack developer driven b..."
+Shahzaib-D-Memon,Shahzaib Memon,1312,45,33,Scribble.github.io,,"HTML, CSS",Update styles.css,"# ScribbleAi Website
+
+ScribbleAi is a website that allows users to effortlessly create engaging tech..."
+Shahzaib-D-Memon,Shahzaib Memon,1312,45,33,Library-Website.github.io,,"HTML, CSS",Update search.html,"# Beatrice Public Library
+
+Welcome to the Beatrice Public Library website, where you can explore our..."
+Shahzaib-D-Memon,Shahzaib Memon,1312,45,33,Shahzaib-Portfolio.github.io,,"HTML, CSS, JavaScript",Update index.html,"# Shahzaib Memon - Frontend Developer Portfolio
+
+![Shahzaib Memon](https://shahzaib-d-memon.github.i..."
+farhanashrafdev,Farhan Ashraf,1278,114,119,90DaysOfCyberSecurity,"This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md",,"Merge pull request #99 from farhanashrafdev/all-contributors/add-paduh
+
+docs: add paduh as a contributor for doc","# 90-Day Cybersecurity Study Plan
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this s..."
+farhanashrafdev,Farhan Ashraf,1278,114,119,30-Days-of-Python,A New Version of 30 Days of Python is nearly here. Get started today.,"HTML, Jupyter Notebook, Python, Shell, PowerShell",updaed with my api,[![30 Days of Python Logo](https://static.codingforentrepreneurs.com/media/projects/30-days-python-3...
+farhanashrafdev,Farhan Ashraf,1278,114,119,farhanashrafdev,,,Update README.md,"<h1 align=""center"">Hi 👋, I'm Farhan Ashraf</h1>
+<h3 align=""center"">DevSecOps Engineer at Systems Ltd..."
+AsharibAli,Asharib Ali,1239,2,127,AI-Terms,AI Terms Everyone Should Know,"TypeScript, CSS, JavaScript",Update ai-terms-learning.tsx,"# AI Terms Everyone Should Know
+..."
+AsharibAli,Asharib Ali,1239,2,127,EduHub-dApp,A simple learning dApp that allows you to first learn and then mint verifiable credentials.,"TypeScript, CSS, JavaScript",update,"# EduHub dApp
+
+## Overview
+EduHub is an educational decentralized application (dApp) built with Next..."
+AsharibAli,Asharib Ali,1239,2,127,30days-of-30projects,30 Days of 30 Projects | One cool mini project each day using the latest tech stack for the next 30 days | For the 30k+ GIAIC Students | 2k+ Completed It,"TypeScript, CSS, JavaScript",👉 update 😃,"# 🚀 30 Days of 30 Projects
+
+Build **30 exciting projects** in 30 days using latest tech-stack! 💻✨
+
+➡..."
+mInzamamMalik,Inzamam Malik,1214,42,358,Web-Development-Class---Saylani-batch-7,,"JavaScript, HTML, CSS, Java, Objective-C, Ruby, Starlark, Procfile",Merge remote-tracking branch 'origin/master',"# Web-Development-Class---Saylani-batch-7
+
+
+## Enrolled Students: 
+
+| roll number | S.no. | Name    ..."
+mInzamamMalik,Inzamam Malik,1214,42,358,b9-web-dev-SMIT,this repo is created in a class as demo,"JavaScript, HTML, CSS, SCSS",service worker,"# Class recordings YouTube Playlist:
+
+https://www.youtube.com/playlist?list=PLaZSdijfCCJBBYHc8r6ylLT..."
+mInzamamMalik,Inzamam Malik,1214,42,358,Saylani-batch-8-Web-and-mobile-app-development-class,,"JavaScript, HTML, CSS, TypeScript, SCSS, Java, Ruby, Objective-C, Objective-C++, PHP, Shell",Update README.md,"# Saylani-batch-8-Web-and-mobile-app-development-class
+
+
+
+
+### All classes are recorded and availabl..."
+hamzaali81,Hamza Ali,1204,8282,391,vscode-recipes,,JavaScript,"chore: update angular cli instructions
+
+Fixes #225","# VS Code Recipes
+
+A collection of recipes for using VS Code with particular technologies.
+
+## Techn..."
+hamzaali81,Hamza Ali,1204,8282,391,llama-stack,Composable building blocks to build Llama Apps,"Python, Shell, Swift, Objective-C","Fixed multiple typos (#878)
+
+# What does this PR do?
+
+In short, provide a summary of what this PR does and why. Usually, the
+relevant context should be present in a linked issue.
+
+- [ ] Addresses issue (#issue)
+
+
+## Test Plan
+
+Please describe:
+ - tests you ran to verify your changes with result summaries.
+ - provide instructions so it can be reproduced.
+
+
+## Sources
+
+Please link relevant resources if necessary.
+
+
+## Before submitting
+
+- [x] This PR fixes a typo or improves the docs (you can dismiss the
+other checks if that's the case).
+- [ ] Ran pre-commit to handle lint / formatting issues.
+- [ ] Read the [contributor
+guideline](https://github.com/meta-llama/llama-stack/blob/main/CONTRIBUTING.md),
+      Pull Request section?
+- [ ] Updated relevant documentation.
+- [ ] Wrote necessary unit or integration tests.","# Llama Stack
+
+[![PyPI version](https://img.shields.io/pypi/v/llama_stack.svg)](https://pypi.org/pro..."
+hamzaali81,Hamza Ali,1204,8282,391,nx-module-federation,,"TypeScript, JavaScript, HTML, Dockerfile, CSS",First commit,"# NxModuleFederation
+
+<a alt=""Nx logo"" href=""https://nx.dev"" target=""_blank"" rel=""noreferrer""><img s..."
+Young-Dev-Interns,Young-Dev-Interns,1179,0,6,appl1,,HTML,Update index.html,# appl1...
+Young-Dev-Interns,Young-Dev-Interns,1179,0,6,mobile,,,,No README
+Young-Dev-Interns,Young-Dev-Interns,1179,0,6,Saif,pfolio,,Initial commit,"# Saif
+pfolio
+..."
+evildevill,Waseem Akram,1178,8,40,instahack,instahack is a bash & python based script which is officially made to test password strength of Instagram account from termux and kali  with bruteforce attack and. it based on tor This tool works on both rooted Android device and Non-rooted Android device. Best Tool For Instagram Bruteforce hacking Tool By Waseem Akram. Made in Bash & python. This is an official repository of instahack,"Shell, Roff",Update README.md,"
+<h1 align=""center"">🚀 Instahack - Advanced Instagram Brute Force Framework</h1>
+
+<p align=""center"">
+..."
+evildevill,Waseem Akram,1178,8,40,Tmux_pckg,A automotive tool that install all basic commands in termux you don't need to be remembered or typing,Python,Delete core directory,"# Tmux_pckg
+```A automotive tool that install all basic commands in termux you don't need to be reme..."
+evildevill,Waseem Akram,1178,8,40,EmptyPhish,"EmptyPhish is an automated phishing tool that comes with 30+ templates for various popular platforms like Instagram, Facebook, Twitter, Snapchat, GitHub, Yahoo, ProtonMail, Google, Spotify, Netflix, LinkedIn, WordPress, Origin, Steam, Microsoft, Instagram Followers, Pinterest, and more.","HTML, CSS, PHP, Shell, JavaScript",Bug fixes,"# EmptyPhish v3.0
+## Author: github.com/evildevill
+## Website : https://hackerwasii.com
+### This scr..."
+Zulfiqar-Ali10,Zulfiqar Ali,1171,18,97,Zulfiqar-Ali10,Config files for my GitHub profile.,,Update README.md,"<div>
+   <a>
+    <img src=""https://komarev.com/ghpvc/?username=Zulfiqar-Ali10&label=Profile%20views&..."
+Zulfiqar-Ali10,Zulfiqar Ali,1171,18,97,React-Portfolio,My-Portfolio,"JavaScript, CSS, HTML",changes-response,"# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and som..."
+Zulfiqar-Ali10,Zulfiqar Ali,1171,18,97,SalesForce-Apex,Create-Simple-Calculator-using-Salesforce-Apex,"Apex, JavaScript, Shell",changes-cal,"# Salesforce DX Project: Next Steps
+
+Now that you’ve created a Salesforce DX project, what’s next? H..."
+r0oth3x49,Nasir Khan,1158,0,11,ghauri,An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws,Python,minor fix..,[![GitHub release](https://img.shields.io/badge/release-v1.4.2-brightgreen?style=flat-square)](https...
+r0oth3x49,Nasir Khan,1158,0,11,udemy-dl,A cross-platform python based utility to download courses from udemy for personal offline use.,Python,Updated README file..,[![GitHub release](https://img.shields.io/badge/release-v1.1-brightgreen?style=flat-square)](https:/...
+r0oth3x49,Nasir Khan,1158,0,11,Xpath,A python based cross-platform tool that automates the process of detecting and exploiting error-based injection security flaws.,Python,fixed coloring for linux..,[![GitHub release](https://img.shields.io/badge/release-v3.0-brightgreen?style=flat-square)](https:/...
+ZainRk,ZAINKEEPSCODE,1119,0,43,Real-Estate-website,,"JavaScript, CSS, HTML",final branding web,No README
+ZainRk,ZAINKEEPSCODE,1119,0,43,leaked-system-prompts,Collection of leaked system prompts,,"Merge pull request #71 from JakubKontra/openai-chatgpt4o_20250324
+
+Add Chat GPT-4o system prompt","# leaked-system-prompts
+
+Collection of leaked prompts
+
+1. [anthropic-claude_2.0_20240306.md](./anthr..."
+ZainRk,ZAINKEEPSCODE,1119,0,43,MERN-SocialMedia-ZAINKEEPSCODE,,"JavaScript, CSS, HTML, Shell",Delete .env,No README
+hassan-arif,Hassan Mahmood,1104,116,6,lung-cancer-prediction,~99% accurate ml model to predict lung cancer's risk,"HTML, Python",Update README.md,"# Lung Cancer Prediction
+
+This repository contains a lung cancer prediction system that achieves an ..."
+hassan-arif,Hassan Mahmood,1104,116,6,cocode,Realtime collaborative code editor,"JavaScript, CSS, HTML",Create dependabot.yml,"<p align='center'>
+  <img src='public/CoCode.png' alt='logo' width='400px'/>
+</p>
+
+# Real-Time Code ..."
+hassan-arif,Hassan Mahmood,1104,116,6,portfolio,,"HTML, CSS, JavaScript","Merge pull request #1 from hassan-arif/sync
+
+v-1.0.0",No README
+genabdulrehman,Abdul rehman,1085,4,27,club-design,,"Dart, C++, CMake, Ruby, HTML, C, Swift, Kotlin, Objective-C",updated code,"# design
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter..."
+genabdulrehman,Abdul rehman,1085,4,27,crypto-wallet,This is crypt-wallet app with flutter.,"Dart, C++, CMake, Ruby, HTML, C, Swift, Kotlin, Objective-C",initial commit,"# crypto_wallet
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a ..."
+genabdulrehman,Abdul rehman,1085,4,27,transactions-app-SwiftUI,This is transactions UI design with SwiftUI app design.,Swift,latest commit,"# transactions-app-SwiftUI
+This is transactions UI design with SwiftUI app design.
+
+## Design Overvi..."
+AtaurRehman10,AtaurRehman,1060,2,11,Tic-Tac-Toe-GAME,,"JavaScript, CSS, HTML",Initial commit,No README
+AtaurRehman10,AtaurRehman,1060,2,11,Frontend-Interview-Questions,"""Frontend development is crafting intuitive, responsive, and visually captivating experiences.""",,Update README.md,"# 100 Days Of Frontend Interview Questions
+
+This repo will contain 500 frontend interview questions ..."
+AtaurRehman10,AtaurRehman,1060,2,11,System_Mangament,C++ language in which System_Mangament project,C++,Update README.md,"# System_Mangament
+C++ language in which System_Mangament project
+
+# Banking System
+This project is ..."
+MuhammadMujtabaa,,1034,13004,11,todo-app-backend,,JavaScript,chore: wip,No README
+MuhammadMujtabaa,,1034,13004,11,imaginaria-ai-images,,"JavaScript, CSS, HTML",chore: update,"# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and som..."
+MuhammadMujtabaa,,1034,13004,11,Search-point-Real-eastate-,,"CSS, JavaScript, HTML",assignment 4,No README
+MuhammadRayyan16,Muhammad Rayyan,987,8,51,carconnekt,,"CSS, HTML, JavaScript",Update index.html,# carconnekt...
+MuhammadRayyan16,Muhammad Rayyan,987,8,51,MuhammadRayyan16,,,Update README.md,"![logo](https://github.com/Rayyan7878/Rayyan7878/blob/main/githubban.gif)
+
+<h1 align=""center"">Hi 👋, ..."
+MuhammadRayyan16,Muhammad Rayyan,987,8,51,Rayyan-Folio,,"JavaScript, CSS, HTML",Update App.jsx,"# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and som..."
+ammadsaleem18,Ammad Saleem,983,6,4,project,,"TypeScript, JavaScript, HTML, CSS",d,No README
+ammadsaleem18,Ammad Saleem,983,6,4,project-saylani,,,,No README
+ammadsaleem18,Ammad Saleem,983,6,4,ammadsaleem18,,,Update README.md,"# Ammad Saleem
+
+Hello 👋, I'm Ammad, a passionate web and mobile app developer with a strong foundati..."
+Adeema-Amir,Adeema Amir,978,3,32,Furniture-E-Compress,Furniture-E-Compress,"CSS, TypeScript, JavaScript","aa
+
+aa","# Furniture-E-Compress
+Furniture-E-Compress
+..."
+Adeema-Amir,Adeema Amir,978,3,32,my-company,my-company,,"My-Company-Portfoilo
+
+My-Company-Portfoilo","# my-company
+my-company
+..."
+Adeema-Amir,Adeema Amir,978,3,32,Adeema-Amir,Adeema-Amir,,Update README.md," <h1 align=""center"">Hi I am Adeema Amir</h1>
+  <h3 align=""center"">I'm a front end developer at NWOIT..."
+RizwanMunawar,Muhammad Rizwan Munawar,943,4,28,yolov8-object-tracking,"YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics","Python, Shell",Update README.md,"# yolov8-object-tracking 
+
+This is compatible only with `ultralytics==8.0.0`. However, I highly reco..."
+RizwanMunawar,Muhammad Rizwan Munawar,943,4,28,yolov5-object-tracking,"YOLOv5 Object Tracking + Detection + Object Blurring + Streamlit Dashboard Using OpenCV, PyTorch and Streamlit","Python, Shell",Add default source for inference,"# yolov5-object-tracking
+
+### New Features
+- YOLOv5 Object Tracking Using Sort Tracker
+- Added Objec..."
+RizwanMunawar,Muhammad Rizwan Munawar,943,4,28,tiktok-feed,Generate RSS feeds for TikTok accounts,Python,Latest TikTok RSS,"# TikTok RSS Using GitHub Actions
+
+Generate usable RSS feeds from TikTok using GitHub Actions and Gi..."
+SuhailTechInfo,Suhail Tech info,922,5,17,Suhail-Md-3,"Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy!  Enjoy a thrilling messaging experience like never before. Aviator_md brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖","JavaScript, HTML, Dockerfile, Nix, Procfile, Shell",converter,"# SUHAIL-MD (V3)
+<p align=""center"">
+<a href=""https://github.com/SuhailTechInfo""><img title=""Author..."
+SuhailTechInfo,Suhail Tech info,922,5,17,Suhail-Md-Media,Plugins for Suhail-MD Whatsapp bot,JavaScript,"ssaver
+
+buttons disabled now in bot","# Suhail-Md-Media
+
+
+
+
+<h1 align=""center""> Suhail Md Plugins </h1>
+<div align=""center"">
+<br />..."
+SuhailTechInfo,Suhail Tech info,922,5,17,Aviator-Md,"Meet Aviator_md, Your All-in-One WhatsApp Excitement Buddy!  Enjoy a thrilling messaging experience like never before. Aviator_md brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖","JavaScript, Nix, Dockerfile, Shell","Create amd.js (#2)
+
+hello
+
+Co-authored-by: Suhail Tech info <saimsamsun789@gmail.com>"," <h1 align=""center""> Aviator-Md </h1> 
+
+
+##
+---
+ 1. ***Status : Not Ready.***
+ 2. ***Started: 05-Aug..."
+khattakdev,Arsalan Khattak,834,0,144,bryntum-hintflow-starter,,"JavaScript, HTML, CSS",fix: README typo,"# How to help your customers onboard with Bryntum’s HintFlow: starter code
+
+This starter project was..."
+khattakdev,Arsalan Khattak,834,0,144,retool-grid-component,,"TypeScript, CSS",basic grid,"## Custom component libraries template
+
+Use this as a base for new custom component library projects..."
+khattakdev,Arsalan Khattak,834,0,144,clubbie-app,,"TypeScript, JavaScript, HTML, CSS, SCSS",final,"# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite wit..."
+shehza-d,Shehzad Iqbal,804,84,140,learning-backend,"🗄️ Learning NodeJS ,ExpressJS, DBMS and AWS 🗃️","TypeScript, JavaScript, HTML, Dockerfile",slides,"# Learning BackEnd and Servers
+
+## Explore each folder for its Learning Resources
+
+[Different ways o..."
+shehza-d,Shehzad Iqbal,804,84,140,vu,Virtual University Of Pakistan,C++,format,"# vu
+
+Virtual University Of Pakistan
+
+[Drive resources](https://drive.google.com/drive/u/0/mobile/fo..."
+shehza-d,Shehzad Iqbal,804,84,140,EX-MS-26-Advance,,"JavaScript, TypeScript, HTML, CSS","navigation, icons, camera","# Expertizo
+
+- [x] Typescript
+- [x] ES6
+- [x] Firebase
+- [x] ReactJs
+- [x] NextJs
+- [ ] React Native..."
+aamirpinger,Aamir Pinger,793,0,51,next-js-routes,,"JavaScript, CSS",route groups,This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs...
+aamirpinger,Aamir Pinger,793,0,51,foodie-app-next-js,,"JavaScript, CSS",complete code,This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs...
+aamirpinger,Aamir Pinger,793,0,51,mobile-flashcards-React-Native-app,,JavaScript,App completed,"# Flashcard App - React Native
+
+This app is build using React Native and it is tested on android dev..."
+dev-sire,Aman Shahid,783,1339,37,acm-sigsac,The Official Website of ACM SIGSAC,"TypeScript, CSS, HTML, JavaScript",changed mail service,"# ACM SIGSAC DUET Chapter Website
+
+The ACM SIGSAC DUET Chapter website serves as the official online..."
+dev-sire,Aman Shahid,783,1339,37,Intellisiem,"This project is an AI-powered Security Information and Event Management (SIEM) system designed for real-time threat detection and response. Using Convolutional Neural Networks (CNN), Natural Language Processing (NLP), and the Groq API.","Python, HTML",Updated Ollama API,"
+![SIEM GROQ](demo.png)
+
+In my latest project, I developed an **AI-powered, real-time Security Infor..."
+dev-sire,Aman Shahid,783,1339,37,AlgoPython,"This repository serves as a comprehensive collection of Python code related to data structures, algorithms, and cryptography. It includes solutions to daily LeetCode problems and various cryptographic implementations","Python, Tcl",added Zero Array Transformation I,No README
+MuhammadMohsin,Muhammad Mohsin,739,3,73,PIAIC-Teaching,,"HTML, CSS",CSS revision samples,"# PIAIC-Teaching
+
+In this repository you will get all the examples and code snippets which we discus..."
+MuhammadMohsin,Muhammad Mohsin,739,3,73,reactjs-interview-questions,List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!,,Merge branch 'master' of https://github.com/sudheerj/reactjs-interview-questions,"# React Interview Questions & Answers
+
+> Click :star:if you like the project. Pull Request are highl..."
+MuhammadMohsin,Muhammad Mohsin,739,3,73,test,,,test commit,No README
