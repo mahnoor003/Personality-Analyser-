@@ -1,0 +1,15 @@
+streamlit
+transformers
+torch
+nltk
+scikit-learn
+joblib
+matplotlib
+fpdf
+pandas
+requests
+nltk
+streamlit
+scikit-learn
+numpy
+pandas
