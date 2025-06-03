@@ -1,66 +1,108 @@
-# Personality-Analyser-
+# Personality Analyzer from LinkedIn and GitHub
 
-🧠 Project Overview
-This web-based AI application analyzes personality traits from LinkedIn and GitHub profiles using Natural Language Processing (NLP) and BERT-based models. It predicts the Big Five (OCEAN) traits:
+---
 
-Openness
+## 📑 Abstract
 
-Conscientiousness
+This web-based application utilizes Artificial Intelligence and Natural Language Processing (NLP) to analyze personality traits from professional profiles such as LinkedIn and GitHub. The system predicts the Big Five personality traits—**Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism**—using fine-tuned BERT models. Developed in **Streamlit**, it offers interactive visualizations, batch analysis, and PDF report generation—ideal for HR, psychologists, and data enthusiasts.
 
-Extraversion
+---
 
-Agreeableness
+## 📚 Table of Contents
 
-Neuroticism
+1. [Introduction](#introduction)  
+2. [Problem Statement](#problem-statement)  
+3. [Proposed Solution](#proposed-solution)  
+   - Features  
+   - Methodology  
+4. [Tools and Technologies](#tools-and-technologies)  
+5. [Project Scope](#project-scope)  
+6. [Limitations](#limitations)  
+7. [Interfaces](#interfaces)  
+8. [Code](#code)  
+9. [Conclusion](#conclusion)  
+10. [References](#references)  
 
-The tool supports manual or batch input, visual reports, and PDF export.
+---
 
-🔍 Features
-📄 Input via text or CSV upload
+## 1. Introduction
 
-🤖 Personality prediction using fine-tuned BERT (Minej/bert-base-personality)
+Professional behavior analysis is valuable for recruitment, self-evaluation, and personality insights. This project leverages AI to extract text from LinkedIn/GitHub and predict personality traits using BERT-based models.
 
-📊 Visualizations: Radar charts & bar graphs (via Plotly)
+---
 
-🧾 PDF report generation (using fpdf)
+## 2. Problem Statement
 
-🌓 Dark/Light mode
+Although vast professional data is available online, no easily accessible tool translates it into psychological insights. There's a need to interpret this data into personality assessment.
 
-📱 Mobile-responsive UI
+---
 
-⚠️ Robust error handling
+## 3. Proposed Solution
 
-🛠️ Tools & Tech Stack
-Frontend: Streamlit, HTML/CSS
+A web app processes LinkedIn/GitHub content, extracts embeddings, and uses AI models to predict traits, presenting results visually and via downloadable PDFs.
 
-Backend: Python
+### 3.1 Features
 
-NLP Models: sentence-transformers, transformers
+- **Text Input**: Manual or CSV upload  
+- **Personality Prediction**: BERT-based models  
+- **Visualization**: Radar + Bar plots  
+- **Platform-Specific Analysis**  
+- **PDF Report Generation**  
+- **Dark/Light Mode Support**  
+- **Mobile Responsive UI**  
+- **Error Handling Built-in**
 
-Visualization: Plotly, Matplotlib
+### 3.2 Methodology
 
-PDF Export: FPDF
+- **Data Collection**: Manual or CSV input  
+- **Preprocessing**: Cleaning, lemmatization (NLTK)  
+- **Embedding**: all-MiniLM-L6-v2 (768-dim)  
+- **Prediction**: bert-base-personality + optional RF model  
+- **Visualization**: Plotly + FPDF
 
-ML Models: BERT, RandomForest (optional evaluation)
+### 3.3 Work Flow Diagram
 
-🔬 Methodology
-Data Collection: Manual text or CSV from LinkedIn/GitHub
+> *(Diagram should be placed here in project repository)*
 
-Preprocessing: Cleaning, stopword removal, tokenization
+### 3.4 Model Evaluation
 
-Embedding: Using all-MiniLM-L6-v2
+- MAE-based comparison  
+- Zero-shot performance  
+- Validated with sample profiles  
 
-Prediction: Via bert-base-personality
+### 3.5 Results & Discussion
 
-Visualization: Radar plots & bar charts
+- GitHub users → Higher **Conscientiousness**  
+- LinkedIn users → Higher **Agreeableness**  
+- Clear visual dominance indicators  
+- Batch PDFs successfully exported  
 
-Evaluation: MAE using RandomForest (pseudo-labeled data)
+---
 
-📊 Sample Results
-GitHub users: Higher Conscientiousness
+## 4. Tools and Technologies
 
-LinkedIn users: Stronger Agreeableness
+- **Language**: Python  
+- **NLP**: NLTK, Transformers, Sentence-Transformers  
+- **ML**: Scikit-learn, Torch  
+- **Visualization**: Plotly, Matplotlib  
+- **PDF**: fpdf  
+- **UI**: Streamlit  
 
-Clear visual comparisons between platforms
+---
 
-Exportable reports for offline use
+## 5. Project Scope
+
+An NLP-based web app predicting personality traits using public LinkedIn/GitHub content. It supports manual and batch uploads, interactive plots, and PDF reports for HR, researchers, and individuals.
+
+---
+
+## 7. Interfaces (Screenshots Suggested)
+
+- Dashboard  
+- LinkedIn Analysis  
+- Trait Visualization  
+- Report Generation  
+- GitHub Analysis  
+- Platform Comparison  
+- Key Insights  
+
