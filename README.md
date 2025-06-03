@@ -114,3 +114,7 @@ An NLP-based web app predicting personality traits using public LinkedIn/GitHub 
 
 - Key Insights  
   ![image](https://github.com/user-attachments/assets/022b2bfb-7f08-4ae4-b586-557748a014f2)
+
+## 9. Conclusion
+
+The application offers insightful and user-friendly personality predictions derived from publicly available professional texts. Its interactive interface and portability make it highly suitable for personality evaluations, professional development, and academic research.
