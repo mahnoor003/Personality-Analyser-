@@ -57,7 +57,7 @@ A web app processes LinkedIn/GitHub content, extracts embeddings, and uses AI mo
 
 ### 3.3 Work Flow Diagram
 
-> *(Diagram should be placed here in project repository)*
+![image](https://github.com/user-attachments/assets/b8aad26b-2c73-4736-b2ff-223622c336b0)
 
 ### 3.4 Model Evaluation
 
