@@ -88,13 +88,29 @@ A web app processes LinkedIn/GitHub content, extracts embeddings, and uses AI mo
 An NLP-based web app predicting personality traits using public LinkedIn/GitHub content. It supports manual and batch uploads, interactive plots, and PDF reports for HR, researchers, and individuals.
 
 
-## 7. Interfaces (Screenshots Suggested)
+## 7. Interfaces 
 
-- Dashboard  
-- LinkedIn Analysis  
-- Trait Visualization  
-- Report Generation  
-- GitHub Analysis  
-- Platform Comparison  
+- Dashboard
+  ![image](https://github.com/user-attachments/assets/6f090d49-a827-4375-b1e5-bbeb9297b435)
+
+- LinkedIn Analysis
+  ![image](https://github.com/user-attachments/assets/e1587dda-f2a1-4baa-8ddc-a6606d4a9294)
+
+- Trait Visualization
+  ![image](https://github.com/user-attachments/assets/e465054e-0bae-4f8c-b292-11518cb9c313)
+
+- Report Generation
+![image](https://github.com/user-attachments/assets/456f50e3-99e0-472c-8ffa-7b8dc7d2d5fc)
+
+- GitHub Analysis Manual Input
+![image](https://github.com/user-attachments/assets/6c8b538a-3ae0-4e00-ac79-49f8a7132813)
+
+- GitHub Analysis All users input
+  ![image](https://github.com/user-attachments/assets/a93a26f7-7fb4-4a14-b797-de9d6de4eee8)
+
+- Platform Comparison
+  ![image](https://github.com/user-attachments/assets/af63fc11-3e27-4025-aaf6-17747978d59d)
+  ![image](https://github.com/user-attachments/assets/c97376bd-b4b1-4c8f-9b56-dd06293d77d2)
+
 - Key Insights  
-
+  ![image](https://github.com/user-attachments/assets/022b2bfb-7f08-4ae4-b586-557748a014f2)
